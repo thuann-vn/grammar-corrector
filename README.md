@@ -4,6 +4,8 @@
 
 A tiny macOS menu bar app that fixes grammar and spelling with Google Gemini, in any app.
 
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support-FFDD00?logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/thua9678)
+
 Select text anywhere, press **⇧⌘C**, and it's replaced with the corrected version. Then a panel pops up showing what was wrong and why. **Mentions and formatting survive** in Slack and Asana.
 
 ## Features
@@ -85,6 +87,10 @@ Sources/GrammarCorrector/
   MenuBarIcon.swift    drawn menu bar icon
   Keychain.swift, LaunchAtLogin.swift
 ```
+
+## Support
+
+Grammar Corrector is free and open source. If it saves you time, you can [buy me a coffee](https://buymeacoffee.com/thua9678).
 
 ## License
 
